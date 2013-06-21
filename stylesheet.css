@@ -1,0 +1,147 @@
+a {
+	text-decoration:none;
+}
+
+a:link {
+	color:#FFFFF0;
+}
+
+a:visited {
+	color:#FFFFF0;
+}
+
+a:hover {
+	color:#668C0D;
+	background-color:#FFFFF0;
+}
+
+.inhalt a:link {
+	color:#3D5C00;
+	text-decoration:underline;
+
+}
+
+.inhalt a:visited {
+	color:#3D5C00;
+}
+
+.inhalt a:hover {
+	color:#668C0D;
+}
+
+.footer a:link {
+	color:#668C0D;
+}
+
+.footer a:visited {
+	color:#3D5C00;
+}
+
+.footer a:hover {
+	color:#3D5C00;
+}
+
+
+
+header {
+	color:#FFFFF0;
+	font-size:120%;
+	margin-left:650px;
+	margin-top:20px;
+}
+
+
+#first {
+	margin-top:237px;
+	margin-left:121px;
+	padding:10px;
+	float:left;
+	position:relative;
+	
+	border:1px solid #FFFFF0;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px #3D5C00;
+}
+
+#second {
+	margin-top:206px;
+	margin-left:10px;
+	padding:10px;
+	float:left;
+	position:relative;
+	
+	border:1px solid #FFFFF0;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px #3D5C00;
+}
+
+
+#third {
+	margin-top:278px;
+	margin-left:-30px;
+	padding:10px;
+	float:left;
+	position:relative;
+	
+	border:1px solid #FFFFF0;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px #3D5C00;
+}
+
+span {
+	text-decoration:underline;
+}
+
+body {
+	background-color:#FFFFF0;
+	background-image:url('bilder/baum4.png');
+	background-size:1400px;
+	background-position:left;
+	background-repeat:no-repeat;
+	margin-top:0px;
+	padding:0px;
+	position:relative;
+}
+
+.img {
+	margin-top:-40px;
+}
+
+
+#reminder {
+	text-align:center;
+}
+
+
+
+.inhalt {
+	color:#668C0D;
+	text-align:justify;
+	margin-top:40px;
+	margin-left:500px;
+	padding:20px;
+	width:600px;
+	height:600px;
+	
+	background-color:#fffff0;
+    border:1px solid #668C0D;
+    border-radius:10px;
+    
+    position:relative;
+}
+
+
+.highlighted {	
+	font-size:110%;
+}
+
+
+footer {
+	font-size:80%;
+	color:#668C0D;
+	text-align:right;
+	margin:80px 20px 0px 0px;
+	padding:20px;
+	position:relative;
+}
+
